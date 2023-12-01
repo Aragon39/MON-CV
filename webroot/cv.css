@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+    color:red;
+    font-size: 60px;
+    text-shadow: 5px 10px 10px blue;
+
+}
+img{
+    height: 100px;
+    width: 90px;
+    float: right;
+}
+
+
+body{
+    background: radial-gradient(blue, orange);
+}
+h2{
+    font-size: 30px;
+    text-decoration: underline;
+}
+h4{
+    font-size: 18px;
+    text-decoration: underline;
+}
+.p1{
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+}
+.p2{
+    font-size: 19px;
+    font-style: italic;
+}
+.p3{
+    font-size: 19px;
+    font-style: italic;
+}
+.p4{
+    font-size: 19px;
+    font-style: italic;
+}
+.p5{
+    font-size: 19px;
+    font-style: italic;
+}
+.p6{
+    font-size: 19px;
+    font-style: italic;
+}
+.coordonne{
+    text-align: justify;
+}
+.p7{
+    font-size: 18px;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
